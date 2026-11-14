@@ -58,4 +58,4 @@ if file is not None:
 else:
     st.info("Belum ada gambar yang diunggah.")
 
-st.caption("PA Kecerdasan Buatan - Kelas C Kelompok 2 | Dataset: Rice Image Dataset (Kaggle)")
+st.caption("PA Kecerdasan Buatan - Kelas C Kelompok 3| Dataset: Rice Image Dataset (Kaggle)")
